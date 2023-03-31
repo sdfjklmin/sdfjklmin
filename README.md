@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello! I'm JiaMing Shao 👋
 
-Here are some ideas to get you started:
+I'm a lazy coder 😄
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![see me lazy](https://github-readme-stats.vercel.app/api?username=sdfjklmin&show_icons=true&theme=tokyonight)
