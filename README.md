@@ -1,4 +1,4 @@
-### Hello! I'm DunSong Shao 👋
+### Hello! I'm SongChen Shao 👋
 
 I'm a lazy coder 😄
 
